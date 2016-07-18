@@ -24,6 +24,12 @@ usbadroid(){
 
 #wlan(){}
 
+#wlan_mon(){}
+
+#wlan_ap(){}
+
+#wlan_p2p(){}
+
 #eth(){}
 
 #vpn(){}
